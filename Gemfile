@@ -29,7 +29,7 @@ group :production do
 end
 
 group :test do
-  gem 'capybara'
+  gem 'capybara', '1.1.2'
 end
 
 # Use jquery as the JavaScript library
